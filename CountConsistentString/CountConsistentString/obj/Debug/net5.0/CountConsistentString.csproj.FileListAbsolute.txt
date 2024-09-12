@@ -1,0 +1,16 @@
+E:\CountConsistentString\CountConsistentString\CountConsistentString\bin\Debug\net5.0\CountConsistentString.exe
+E:\CountConsistentString\CountConsistentString\CountConsistentString\bin\Debug\net5.0\CountConsistentString.deps.json
+E:\CountConsistentString\CountConsistentString\CountConsistentString\bin\Debug\net5.0\CountConsistentString.runtimeconfig.json
+E:\CountConsistentString\CountConsistentString\CountConsistentString\bin\Debug\net5.0\CountConsistentString.runtimeconfig.dev.json
+E:\CountConsistentString\CountConsistentString\CountConsistentString\bin\Debug\net5.0\CountConsistentString.dll
+E:\CountConsistentString\CountConsistentString\CountConsistentString\bin\Debug\net5.0\CountConsistentString.pdb
+E:\CountConsistentString\CountConsistentString\CountConsistentString\obj\Debug\net5.0\CountConsistentString.GeneratedMSBuildEditorConfig.editorconfig
+E:\CountConsistentString\CountConsistentString\CountConsistentString\obj\Debug\net5.0\CountConsistentString.AssemblyInfoInputs.cache
+E:\CountConsistentString\CountConsistentString\CountConsistentString\obj\Debug\net5.0\CountConsistentString.AssemblyInfo.cs
+E:\CountConsistentString\CountConsistentString\CountConsistentString\obj\Debug\net5.0\CountConsistentString.csproj.CoreCompileInputs.cache
+E:\CountConsistentString\CountConsistentString\CountConsistentString\obj\Debug\net5.0\CountConsistentString.sourcelink.json
+E:\CountConsistentString\CountConsistentString\CountConsistentString\obj\Debug\net5.0\CountConsistentString.dll
+E:\CountConsistentString\CountConsistentString\CountConsistentString\obj\Debug\net5.0\refint\CountConsistentString.dll
+E:\CountConsistentString\CountConsistentString\CountConsistentString\obj\Debug\net5.0\CountConsistentString.pdb
+E:\CountConsistentString\CountConsistentString\CountConsistentString\obj\Debug\net5.0\CountConsistentString.genruntimeconfig.cache
+E:\CountConsistentString\CountConsistentString\CountConsistentString\obj\Debug\net5.0\ref\CountConsistentString.dll
